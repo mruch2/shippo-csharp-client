@@ -6,12 +6,16 @@
     <Title>Shippo client library</Title>
     <Description>.NET library which integrates with Shippo Multi Carrier Shipping API. This library provides access to Shippo (goshippo.com) API capabilities. Including label generation, rating, tracking and more.</Description>
     <Summary>Shippo Shipping API client Library (USPS, FedEx, UPS, and more)</Summary>
-    <PackageProjectUrl>https://github.com/goshippo/shippo-csharp-client/</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/goshippo/shippo-csharp-client/</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/vancore295/shippo-csharp-client</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/vancore295/shippo-csharp-client</RepositoryUrl>
     <PackageTags>USPS Fedex UPS API Shippo</PackageTags>
     <PackageReleaseNotes>Added PRE_TRANSIT to ShippoEnums </PackageReleaseNotes>
     <RepositoryType>Github</RepositoryType>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageId>DauntlessShippo</PackageId>
+    <Authors>Dauntless</Authors>
+    <Company>Dauntless</Company>
+    <Product>Dauntless Shippo</Product>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net45|AnyCPU'">
