@@ -9,7 +9,7 @@
     <PackageProjectUrl>https://github.com/vancore295/shippo-csharp-client</PackageProjectUrl>
     <RepositoryUrl>https://github.com/vancore295/shippo-csharp-client</RepositoryUrl>
     <PackageTags>USPS Fedex UPS API Shippo</PackageTags>
-    <PackageReleaseNotes>Added PRE_TRANSIT to ShippoEnums </PackageReleaseNotes>
+    <PackageReleaseNotes>Added original eta to track</PackageReleaseNotes>
     <RepositoryType>Github</RepositoryType>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageId>DauntlessShippo</PackageId>
