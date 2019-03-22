@@ -22,6 +22,9 @@ namespace Shippo {
         [JsonProperty(PropertyName = "eta")]
         public DateTime? Eta;
 
+        [JsonProperty(PropertyName = "original_eta")]
+        public DateTime? OriginalEta;
+
         [JsonProperty(PropertyName = "servicelevel")]
         public Servicelevel Servicelevel;
 
